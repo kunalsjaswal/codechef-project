@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fae3e4bd.css",
+    "main.js": "/static/js/main.48482c0e.js",
+    "static/media/worldcup.png": "/static/media/worldcup.7eeef4e18eae885631f8.png",
+    "static/media/treking.png": "/static/media/treking.e4ff87cbf0c8655505d6.png",
+    "static/media/waiterIcon.png": "/static/media/waiterIcon.3f32fe6e9d4a94c72163.png",
+    "static/media/dog.png": "/static/media/dog.98d6cbb0f9a473bc4c68.png",
+    "static/media/tunnel.png": "/static/media/tunnel.f52f75fd5c9feaacfdf8.png",
+    "static/media/fifa.png": "/static/media/fifa.eb986991536f4caa910b.png",
+    "static/media/cheficon.png": "/static/media/cheficon.954040048183dd5c652d.png",
+    "static/media/chefinaIcon.png": "/static/media/chefinaIcon.b8116ebd1e921a0ac33e.png",
+    "static/media/hostImg.png": "/static/media/hostImg.106f246e80653420fbe5.png",
+    "static/media/bartenderIcon.png": "/static/media/bartenderIcon.29c350a7d930418b282c.png",
+    "index.html": "/index.html",
+    "main.fae3e4bd.css.map": "/static/css/main.fae3e4bd.css.map",
+    "main.48482c0e.js.map": "/static/js/main.48482c0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fae3e4bd.css",
+    "static/js/main.48482c0e.js"
+  ]
+}
